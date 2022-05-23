@@ -1,2 +1,3 @@
 plik testowy
 nowa linia tekstu
+trzecia linijka
